@@ -164,6 +164,7 @@ button>img {
         width: 205px;
         height: 90px;
         margin-top: 18px;
+        line-height: 30px;
     }
 
     p {
@@ -173,7 +174,7 @@ button>img {
     }
 
     .prices{
-        margin-top: 38px;
+        margin-top: 40px;
     }
     
     .button{
