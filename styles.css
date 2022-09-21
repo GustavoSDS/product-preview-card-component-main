@@ -163,7 +163,7 @@ button>img {
     h2 {
         width: 205px;
         height: 90px;
-        margin-top: 20px;
+        margin-top: 18px;
     }
 
     p {
@@ -173,11 +173,11 @@ button>img {
     }
 
     .prices{
-        margin-top: 37px;
+        margin-top: 38px;
     }
     
     .button{
         width: 236px;
-        margin-top: 30px;
+        margin-top: 35px;
     }
 }
